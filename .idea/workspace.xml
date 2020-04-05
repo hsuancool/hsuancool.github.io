@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93aad3d7-ac2e-40ea-b4da-32189810ef4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/img/about/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/header-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/01-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/01-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/02-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/02-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/03-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/03-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/04-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/04-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/05-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/05-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/06-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/06-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="93aad3d7-ac2e-40ea-b4da-32189810ef4c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,27 +18,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="343" column="14" lean-forward="true" selection-start-line="343" selection-start-column="14" selection-end-line="343" selection-end-column="14" />
+            <state relative-caret-position="491">
+              <caret line="194" column="58" lean-forward="true" selection-start-line="194" selection-start-column="58" selection-end-line="194" selection-end-column="58" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#22307#22313#0" expanded="true" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/agency.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="175" column="32" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -181,12 +149,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585932603627</updated>
-      <workItem from="1585932606528" duration="9406000" />
+      <workItem from="1585932606528" duration="9761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9406000" />
+    <option name="totallyTimeSpent" value="9761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="238" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -226,12 +194,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="343" column="14" lean-forward="true" selection-start-line="343" selection-start-column="14" selection-end-line="343" selection-end-column="14" />
+        <state relative-caret-position="491">
+          <caret line="194" column="58" lean-forward="true" selection-start-line="194" selection-start-column="58" selection-end-line="194" selection-end-column="58" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#22307#22313#0" expanded="true" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
